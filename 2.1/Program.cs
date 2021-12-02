@@ -34,7 +34,6 @@ void strings()
     string[] separated;
     int horizontal = 0;
     int depth = 0;
-    int aim = 0;
 
     foreach (string str in theList)
     {
@@ -55,7 +54,6 @@ void strings()
         {
 
         }
-        Console.WriteLine("Depth is: " + depth);
     }
 
     Console.WriteLine($"Depth: {depth}, horizontal: {horizontal}");
