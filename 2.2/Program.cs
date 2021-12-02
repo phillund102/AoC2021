@@ -4,7 +4,7 @@
 //integers();
 
 // Run for strings inpur
-//strings();
+strings();
 
 void integers()
 {
